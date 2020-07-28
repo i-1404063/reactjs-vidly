@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  font-family: "Fira Code";
+}
+
+.navbar {
+  margin-bottom: 25px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+select option:first-child {
+  display: none;
+}
+
+/*# sourceMappingURL=index.css.map */
